@@ -8,7 +8,14 @@ github_username : tonyphg
 
 ## Démarche
 
-- Création des fichiers DockerFile et de default.conf pour Nginx
-- Création du fichier DockerFile pour NodeJs
-- Création du fichier docker-compose.yaml pour la construction des containers
-- Création du fichier server.js pour obtenir un retour si le docker-compose fonctionne
+- Création des fichiers DockerFile et de default.conf pour Nginx.
+- Création du fichier DockerFile pour NodeJs.
+- Création du fichier docker-compose.yaml pour la construction des containers.
+- Création du fichier server.js pour obtenir un retour si le docker-compose fonctionne.
+
+## Vérification
+
+- Télécharger le .zip
+- Se déplacer dans tp2-phongsavath-tony
+- Taper la commande suivante : docker-compose up
+- Sur un navigateur taper : http://localhost:3000/ap , on aura en retour le message "Hello World".
