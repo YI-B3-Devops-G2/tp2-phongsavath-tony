@@ -9,8 +9,9 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/api', (req, res) => {
-    res.json("Hello world");
-});
+    res.json('Hello World')
+})
+
 app.get('/status', (req, res) => {
 //
 });
