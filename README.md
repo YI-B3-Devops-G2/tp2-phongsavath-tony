@@ -17,5 +17,5 @@ github_username : tonyphg
 
 - Télécharger le .zip
 - Se déplacer dans tp2-phongsavath-tony
-- Taper la commande suivante dans un terminal : docker-compose up
+- Taper dans un terminal la commande suivante : docker-compose up
 - Taper sur un navigateur : http://localhost:3000/api , on aura en retour le message "Hello World".
