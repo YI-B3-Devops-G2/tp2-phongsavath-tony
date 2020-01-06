@@ -8,4 +8,7 @@ github_username : tonyphg
 
 ## Démarche
 
-- 
+- Création des fichiers DockerFile et de default.conf pour Nginx
+- Création du fichier DockerFile pour NodeJs
+- Création du fichier docker-compose.yaml pour la construction des containers
+- Création du fichier server.js pour obtenir un retour si le docker-compose fonctionne
